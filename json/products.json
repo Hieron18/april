@@ -1,0 +1,94 @@
+{
+   "products": [
+      {
+         "id": 13,
+         "ul": "#",
+         "title": "Funnel Collar Puffer Jacket",
+         "labels": "",
+         "image": "img/product.webp",
+         "price": "$59.00",
+         "shareUrl": "#",
+         "magnifierUrl": "#"
+      },
+
+      {
+         "id": 14,
+         "ul": "#",
+         "title": "Funnel Collar Puffer Jacket",
+         "labels": [
+            {
+               "type": "sale",
+               "value": "-50%"
+            }
+         ],
+         "image": "img/product.webp",
+         "price": "$59.00",
+         "shareUrl": "",
+         "magnifierUrl": ""
+      },
+
+      {
+         "id": 15,
+         "ul": "#",
+         "title": "Funnel Collar Puffer Jacket",
+         "labels": [
+            {
+               "type": "new",
+               "value": "New"
+            }
+         ],
+         "image": "img/product.webp",
+         "price": "$59.00",
+         "shareUrl": "",
+         "magnifierUrl": ""
+      },
+
+      {
+         "id": 16,
+         "ul": "#",
+         "title": "Funnel Collar Puffer Jacket",
+         "labels": [
+            {
+               "type": "sale",
+               "value": "-30%"
+            }
+         ],
+         "image": "img/product.webp",
+         "price": "$59.00",
+         "shareUrl": "",
+         "magnifierUrl": ""
+      },
+
+      {
+         "id": 17,
+         "ul": "#",
+         "title": "Funnel Collar Puffer Jacket",
+         "labels": [
+            {
+               "type": "sale",
+               "value": "-10%"
+            }
+         ],
+         "image": "img/product.webp",
+         "price": "$59.00",
+         "shareUrl": "",
+         "magnifierUrl": ""
+      },
+
+      {
+         "id": 18,
+         "ul": "#",
+         "title": "Funnel Collar Puffer Jacket",
+         "labels": [
+            {
+               "type": "new",
+               "value": "New"
+            }
+         ],
+         "image": "img/product.webp",
+         "price": "$59.00",
+         "shareUrl": "",
+         "magnifierUrl": ""
+      }
+   ]
+}
